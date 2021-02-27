@@ -8,4 +8,6 @@ Poonen hypothesis : https://arxiv.org/pdf/math/9512217.pdf
 ![](Images/Typical-segments-of-the-trajectory-of-a-generic-map-f-dxTH-when-starting-from-a.png)
 
 For example : 
-<img src="Images/example.png" width=500> 
+
+
+<img src="Images/example.png" width=800> 
