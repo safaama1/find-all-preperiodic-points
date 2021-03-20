@@ -6,8 +6,6 @@ HUTZ algorithm : https://arxiv.org/pdf/1210.6246.pdf ,
 Poonen hypothesis : https://arxiv.org/pdf/math/9512217.pdf
 
 
-![](Images/Typical-segments-of-the-trajectory-of-a-generic-map-f-dxTH-when-starting-from-a-removebg-preview.png)
-
 For example : 
 
 ![](Images/example-removebg-preview.png)
