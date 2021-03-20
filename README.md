@@ -10,5 +10,5 @@ Poonen hypothesis : https://arxiv.org/pdf/math/9512217.pdf
 
 For example : 
 
+![](Images/example-removebg-preview.png)
 
-<img src="example-removebg-preview.png" width=650> 
