@@ -1,4 +1,4 @@
-def all_possible_global_periods(self,primes,e  ):
+def all_possible_global_periods(self,primes,e):
     DS = copy(self)
     base = DS.base_ring()
     CF = base.constant_field()
