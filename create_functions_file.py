@@ -34,12 +34,11 @@ def create_functions_file(FF,b):
         f.writelines("%s\n" % str(func) for func in elements_list)
     
 
+# The files we will use 
+# the finite field contains 3 numbers 
 
-K = GF(3)
-FF.<t> = FunctionField(K)
-
-lst6 = create_functions_file(FF,6) # 10 min
-lst7 = create_functions_file(FF,7) # 1 hr 36 min
-lst8 = create_functions_file(FF,8) # ?
-lst9 = create_functions_file(FF,9) # ?
-lst10 = create_functions_file(FF,10) # ?
+create_functions_file(3,6) # Time complexity = 10 min
+create_functions_file(3,7) # Time complexity = 1 hr 36 min
+create_functions_file(3,8) # Time complexity = ?
+create_functions_file(3,9) # Time complexity = ?
+create_functions_file(3,10) # Time complexity = ?
