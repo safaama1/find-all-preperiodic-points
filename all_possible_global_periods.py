@@ -7,7 +7,8 @@ def all_possible_global_periods(self,primes,e):
     if DS.domain().dimension() != 1 :
         raise NotImplementedError("The dimension must be 1")
     # check if the field is function field over Finite Field
-    if not isinstance(DS.base_ring(), sage.rings.function_field.function_field.RationalFunctionField_global) or CF.order() == Infinity :
+    from sage.rings.function_field.function_field import RationalFunctionField_global
+    if not isinstance(DS.base_ring(),RationalFunctionField_global) or CF.order() == Infinity :
         raise TypeError("The field must be function field over finite Field ")
     all_possible_global_periods_list = []
     temp_g = 0
