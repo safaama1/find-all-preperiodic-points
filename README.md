@@ -6,7 +6,7 @@ HUTZ algorithm : https://arxiv.org/pdf/1210.6246.pdf ,
 Poonen hypothesis : https://arxiv.org/pdf/math/9512217.pdf
 
 
-For example : 
+ 
 
 ![](images/preperiodic_graph.png)
 
