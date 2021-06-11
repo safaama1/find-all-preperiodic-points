@@ -8,5 +8,5 @@ Poonen hypothesis : https://arxiv.org/pdf/math/9512217.pdf
 
  
 
-![](images/preperiodic_graph.png)
+![](images/pre-periodic-graph.png)
 
