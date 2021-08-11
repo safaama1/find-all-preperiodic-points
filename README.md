@@ -9,4 +9,3 @@ Poonen hypothesis : https://arxiv.org/pdf/math/9512217.pdf
 For example : 
 
 ![](Images/example-removebg-preview.png)
-
