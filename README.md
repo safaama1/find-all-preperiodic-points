@@ -9,7 +9,7 @@ Poonen hypothesis : https://arxiv.org/pdf/math/9512217.pdf
 In the test folder there's Jupyter Notebook file which has some python code to test the functions we added to Sage ,we put the functions we wrote at the start of the file and after that we runed this functions on some dynamic systems we chose to show the graphs of the pre-periodic points    .  
 <br/>
 <br/>
-graph of periodic points : 
+Graph of periodic points : 
 <br/>
 
 ![](images/pre-periodic-graph.png)
