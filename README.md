@@ -8,7 +8,7 @@ By using the algorithm we want to get a list of graphs of periodic points simila
 <br/>
 In the **test** folder there's Jupyter Notebook file which has some python code to test the functions we added to Sage ,we put the functions we wrote at the start of the file and after that we runed this functions on some dynamic systems we chose to show the graphs of the pre-periodic points.  
 <br/>
-In the **images** folder there's some pictures of the graphs we got after runnig the algorithm on a number of **Dynamic Systems** defined over **Function Fields** over **Finite Field**.
+In the **images** folder there's some pictures of the graphs we got after runnig the algorithm on a number of **Dynamic Systems** defined over **Function Fields** over **Finite Field** .
 <br/>
 **Graph of periodic points :** 
 <br/>
