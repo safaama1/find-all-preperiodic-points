@@ -6,6 +6,7 @@ By using the algorithm we want to get a list of graphs of periodic points simila
 HUTZ algorithm : https://arxiv.org/pdf/1210.6246.pdf ,
 Poonen hypothesis : https://arxiv.org/pdf/math/9512217.pdf
 <br/>
+In the test folder there's Jupyter Notebook file which has some python code to test the functions we added to Sage, in the file there is a graphs of some functions we chose .  
 <br/>
 <br/>
 
