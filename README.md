@@ -17,7 +17,7 @@ In the **images** folder there's some pictures of the graphs we got after runnig
 
 </br>
 
-**Graph of periodic points :** 
+**Graph of pre-periodic points :** 
 </br>
 
 ![](images/pre-periodic-graph.png)
