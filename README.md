@@ -5,9 +5,8 @@ By using the algorithm we want to get a list of graphs of periodic points simila
 </br>
 HUTZ algorithm : https://arxiv.org/pdf/1210.6246.pdf ,
 Poonen hypothesis : https://arxiv.org/pdf/math/9512217.pdf
-
-
- 
-
+<br/>
+<br/>
+<br/>
 ![](images/pre-periodic-graph.png)
 
