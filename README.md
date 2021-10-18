@@ -11,4 +11,5 @@ In the test folder there's Jupyter Notebook file which has some python code to t
 <br/>
 graph of periodic points : 
 <br/>
+
 ![](images/pre-periodic-graph.png)
