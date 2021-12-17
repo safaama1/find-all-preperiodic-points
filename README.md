@@ -9,7 +9,7 @@ In the **test** folder there's Jupyter Notebook file which has some python code 
 
 
 In the **images** folder there's some pictures of the graphs we got after runnig the algorithm on a number of **Dynamic Systems** defined over **Function Fields** over 
-**Finite Field** .
+[**Finite Field**](https://en.wikipedia.org/wiki/Finite_field) .
 
 </br>
 
