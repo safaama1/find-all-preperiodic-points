@@ -24,4 +24,4 @@ In the **images** folder there's some pictures of the graphs we got after runnig
 
 </br>
 
-<img src="https://latex.codecogs.com/svg.image?p,f(p),f^{2}(p),..." title="p,f(p),f^{2}(p),..." />
+`<img src="https://latex.codecogs.com/svg.image?p,f(p),f^{2}(p),..." title="p,f(p),f^{2}(p),..." />`
