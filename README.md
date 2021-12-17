@@ -21,3 +21,10 @@ In the **images** folder there's some pictures of the graphs we got after runnig
 </br>
 
 ![](images/pre-periodic-graph.png)
+
+</br>
+In this photo the points 
+```math
+f^2(p)
+```
+
