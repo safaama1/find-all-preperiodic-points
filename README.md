@@ -23,5 +23,5 @@ In the **images** folder there's some pictures of the graphs we got after runnig
 ![](images/pre-periodic-graph.png)
 
 </br>
-In this photo the points ![p,f(p),f^{2}(p),...](https://latex.codecogs.com/svg.image?p,f(p),f^{2}(p),..." title="p,f(p),f^{2}(p),...) 
+In this photo the points ![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
