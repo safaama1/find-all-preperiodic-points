@@ -24,5 +24,4 @@ In the **images** folder there's some pictures of the graphs we got after runnig
 
 </br>
 
-In this photo the points ![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
-
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
