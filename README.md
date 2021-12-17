@@ -24,4 +24,5 @@ In the **images** folder there's some pictures of the graphs we got after runnig
 
 </br>
 
-` <img src="https://latex.codecogs.com/svg.image?p,f(p),f^{2}(p),..." title="p,f(p),f^{2}(p),..." /> `
+<img src="https://latex.codecogs.com/svg.image?f^{j}(p),f^{j&plus;1}(p),...,f^{j&plus;k-1}(p)," title="f^{j}(p),f^{j+1}(p),...,f^{j+k-1}(p)," /> are periodic points (also pre-periodic). <br/>
+<img src="https://latex.codecogs.com/svg.image?p,f(p),f^{2}(p),..." title="p,f(p),f^{2}(p),..." /> are only pre-periodic point becasue after number of iterations they become periodic (as shown in the picture above)
