@@ -26,4 +26,4 @@ In the **images** folder there's some pictures of the graphs we got after runnig
 - A dynamical system defined over 𝑭𝒒(𝒕) (function fields) where 𝑭 is a finite field .<br/>
 
 **:arrow_left:_Output of the algorithm_:** <br/>
-- List of all preperiodic points of the dynamical system.
+- Graph of all preperiodic points of the dynamical system.
