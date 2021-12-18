@@ -7,7 +7,7 @@ By using the algorithm we want to get a list of graphs of periodic points simila
 
 In the **test** folder, there's Jupyter Notebook file which has some python code to test the functions we added to Sage, we put the functions we wrote at the start of the file and after that, we ran these functions on some dynamic systems we chose to show the graphs of the pre-periodic points.
 
-In the **images** folder, there are some pictures of the graphs we got after running the algorithm on a number of **Dynamic Systems** defined over **Function Fields** over 
+In the **images** folder, there are some pictures of the graphs we got after running the algorithm on many **Dynamic Systems** defined over **Function Fields** over 
 [**Finite Field**](https://en.wikipedia.org/wiki/Finite_field) .
 
 </br>
@@ -20,9 +20,9 @@ In the **images** folder, there are some pictures of the graphs we got after run
 </br>
 
 <img src="https://latex.codecogs.com/svg.image?f^{j}(p),f^{j&plus;1}(p),...,f^{j&plus;k-1}(p)" title="f^{j}(p),f^{j+1}(p),...,f^{j+k-1}(p)" />&nbsp;&nbsp;&nbsp;are periodic points (also pre-periodic). <br/>
-<img src="https://latex.codecogs.com/svg.image?p,f(p),f^{2}(p),..." title="p,f(p),f^{2}(p),..." />&nbsp;&nbsp;&nbsp;are only pre-periodic points because after a number of iterations they become periodic (as shown in the picture above) <br/> <br/>
+<img src="https://latex.codecogs.com/svg.image?p,f(p),f^{2}(p),..." title="p,f(p),f^{2}(p),..." />&nbsp;&nbsp;&nbsp;are only pre-periodic points because after several iterations they become periodic (as shown in the picture above) <br/> <br/>
 **:arrow_right:_Input of the algorithm_:**<br/> 
 - A dynamical system defined over 𝑭𝒒(𝒕) (function fields) where 𝑭 is a finite field .<br/>
 
 **:arrow_left:_Output of the algorithm_:** <br/>
-- Graph of all preperiodic points of the dynamical system.
+- Graph of all the pre-periodic points of the dynamical system.
