@@ -21,4 +21,6 @@ In the **images** folder there's some pictures of the graphs we got after runnig
 </br>
 
 <img src="https://latex.codecogs.com/svg.image?f^{j}(p),f^{j&plus;1}(p),...,f^{j&plus;k-1}(p)" title="f^{j}(p),f^{j+1}(p),...,f^{j+k-1}(p)" />&nbsp;&nbsp;&nbsp;are periodic points (also pre-periodic). <br/>
-<img src="https://latex.codecogs.com/svg.image?p,f(p),f^{2}(p),..." title="p,f(p),f^{2}(p),..." />&nbsp;&nbsp;&nbsp;are only pre-periodic points because after a number of iterations they become periodic (as shown in the picture above)
+<img src="https://latex.codecogs.com/svg.image?p,f(p),f^{2}(p),..." title="p,f(p),f^{2}(p),..." />&nbsp;&nbsp;&nbsp;are only pre-periodic points because after a number of iterations they become periodic (as shown in the picture above) <br/> <br/>
+**Input:** A dynamical system defined over 𝑭𝒒(𝒕) (function fields) where 𝑭 is a finite field .
+**Output:** List of all preperiodic points of the dynamical system.
